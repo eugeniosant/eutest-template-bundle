@@ -1,4 +1,5 @@
-code: param-menu
+descriptorVersion: v5
+name: param-menu
 titles:
   en: Parametrized menu
   it: Menu Parametrico

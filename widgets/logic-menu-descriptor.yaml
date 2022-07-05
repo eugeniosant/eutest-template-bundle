@@ -1,8 +1,9 @@
-code: logic-menu
+descriptorVersion: v5
+name: logic-menu
 titles:
   en: Logic menu
   it: Menu logico
 group: free
-parentCode: param-menu
+parentName: param-menu
 paramsDefaults:
   navSpec: code(homepage)
