@@ -1,5 +1,6 @@
 descriptorVersion: v5
 name: logic-menu
+type: widget
 titles:
   en: Logic menu
   it: Menu logico

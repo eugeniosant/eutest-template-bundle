@@ -1,5 +1,6 @@
 descriptorVersion: v5
 name: param-menu
+type: widget
 titles:
   en: Parametrized menu
   it: Menu Parametrico

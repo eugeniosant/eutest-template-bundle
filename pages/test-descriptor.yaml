@@ -1,3 +1,4 @@
+descriptorVersion: v5
 code: test_bundle
 parentCode: my_homepage
 titles:
@@ -11,10 +12,10 @@ seo: false
 charset: utf-8
 status: published
 widgets:
-  - code: param-menu
+  - name: param-menu
     config:
       navSpec: code(homepage) + code(my_homepage)
     pos: 4
-  - code: logic-menu
+  - name: logic-menu
     config: null
     pos: 5
