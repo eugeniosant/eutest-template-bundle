@@ -28,4 +28,4 @@ params:
     description: Rules for the Page List auto-generation
   - name: title
     description: Description of title parameter
-configMfe: "internal:navigatorConfig"
+configMfe: "global:navigatorConfig"

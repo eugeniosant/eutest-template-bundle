@@ -1,6 +1,6 @@
 descriptorVersion: v5
-code: test_bundle
-parentCode: my_homepage
+name: test_bundle
+parentName: global:my_homepage
 titles:
   en: Test bundle
   it: Test bundle
