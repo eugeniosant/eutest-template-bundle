@@ -10,7 +10,7 @@ joinGroups: []
 displayedInMenu: true
 seo: false
 charset: utf-8
-status: published
+status: draft
 widgets:
   - name: param-menu
     config:
